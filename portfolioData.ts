@@ -129,7 +129,7 @@ export const INITIAL_IDENTITY: PersonalIdentity = {
   fullName: 'Benyamin Fernando Napitupulu',
   firstName: 'Benyamin Fernando',
   lastName: 'Napitupulu',
-  currentClass: '11.1',
+  currentClass: 'XI.1',
   school: 'SMAN 1 Tualang',
   role: 'Student Developer / Aspiring Software Engineer',
   subtitle: 'Student Developer | Future Software Engineer',
@@ -141,7 +141,7 @@ export const INITIAL_IDENTITY: PersonalIdentity = {
     "I'm a high school student passionate about programming, technology, and building digital experiences. Currently exploring software development and strengthening my computer science fundamentals.",
   aboutTitle: 'A Little About Me',
   aboutDescription:
-    "My name is Benyamin Fernando Napitupulu. I'm currently studying at SMAN 1 Tualang in class 11.1. I have a strong interest in computer science and software development. I enjoy learning programming languages, experimenting with new technologies, and creating projects that help me improve my technical skills.",
+    "My name is Benyamin Fernando Napitupulu. I'm currently studying at SMAN 1 Tualang in class XI.1. I have a strong interest in computer science and software development. I enjoy learning programming languages, experimenting with new technologies, and creating projects that help me improve my technical skills.",
   mainInterests: [
     'Software Development',
     'Backend Development',
